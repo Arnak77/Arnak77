@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E))](https://rishavchanda.io)
+[![MasterHead](https://github.com/Arnak77/Arnak77/assets/97283054/bbee6d2d-60d3-48b2-8406-1ce95e5712e8)
 
 
 

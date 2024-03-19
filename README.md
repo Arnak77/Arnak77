@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arnak77/Arnak77/assets/97283054/bbee6d2d-60d3-48b2-8406-1ce95e5712e8)
+![MasterHead](https://github.com/Arnak77/Arnak77/assets/97283054/bbee6d2d-60d3-48b2-8406-1ce95e5712e8)
 
 
 

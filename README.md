@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **C, C++, Java, SQl, Python, ML, NLP.**
 
-- 📫 How to reach me **arnakjain87421@gmail.com**
+- 📫 How to reach me: **arnakjain87421@gmail.com**
 
-- ⚡Fact   **You don’t understand anything until you learn it more than one way.**
+- ⚡Fact:   **You don’t understand anything until you learn it more than one way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

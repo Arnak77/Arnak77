@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Arnak77/Arnak77/assets/97283054/43b529e9-17da-4ecc-86f4-fe1dbe42d1a0">
+<img align="right" alt="coding" width="400" src="https://github.com/Arnak77/Arnak77/assets/97283054/208462db-2046-4f5b-b96d-f4d685ca5c59">
 
 - 🔭 I’m currently working on **Python,ML**
 

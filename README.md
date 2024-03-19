@@ -1,9 +1,10 @@
 [![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E))](https://rishavchanda.io)
 
 
+
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Arnak77/Arnak77/assets/97283054/506ec72c-5545-45ab-a5c0-1eb76e5fcd90">
+<img align="right" alt="coding" width="400" src="https://github.com/Arnak77/Arnak77/assets/97283054/49a20925-8057-4280-b3ae-c71c68613224">
 
 - 🔭 I’m currently working on **Python,ML**
 

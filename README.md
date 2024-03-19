@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="[[4-things-you-should-know-career-data-analytics-jonathan-osagie](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fdata-analysis-processing-4209908&psig=AOvVaw3J58tyzCzmy76_RYsDf9jP&ust=1710964870739000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj73PuOgYUDFQAAAAAdAAAAABAE).gif">
+<img align="right" alt="coding" width="400" src="[[4-things-you-should-know-career-data-analytics-jonathan-osagie](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fdata-analysis-processing-4209908&psig=AOvVaw3J58tyzCzmy76_RYsDf9jP&ust=1710964870739000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj73PuOgYUDFQAAAAAdAAAAABAE)">
 
 
 - 🔭 I’m currently working on **Python,ML**

@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Arnak77/Arnak77/assets/97283054/e6479b95-e69c-46b8-8505-8ffc624f528b)
-">
+<img align="right" alt="coding" width="400" src="4-things-you-should-know-career-data-analytics-jonathan-osagie.gif">
+
 
 - 🔭 I’m currently working on **Python,ML**
 

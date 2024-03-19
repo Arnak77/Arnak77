@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fdata-analysis&psig=AOvVaw2w6zGNJjMZjvyVM1phzFM8&ust=1710963077581000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD926SIgYUDFQAAAAAdAAAAABBu](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E))]
+[![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fdata-analysis&psig=AOvVaw2w6zGNJjMZjvyVM1phzFM8&ust=1710963077581000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD926SIgYUDFQAAAAAdAAAAABBu](https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1716422400&v=beta&t=tjz2ZXIAhvtYSjtUaAVkcWelkxe1nGWsyTojwDnoC-E)](https://www.linkedin.com/pulse/4-things-you-should-know-career-data-analytics-jonathan-osagie/))]
 
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>

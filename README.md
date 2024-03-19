@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arnakjain87421@gmail.com**
 
-- ⚡ fact **You don’t understand anything until you learn it more than one way.**
+- ⚡fact   **You don’t understand anything until you learn it more than one way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

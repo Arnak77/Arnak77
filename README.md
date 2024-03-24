@@ -30,7 +30,3 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/Arnak77/Arnak77/blob/output/github-contribution-grid-snake.svg">
-</p>

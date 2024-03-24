@@ -30,4 +30,6 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnak7&show_icons=true&locale=en" alt="arnak7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnak7&show_icons=true&locale=en&layout=compact" alt="arnak7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnak7&" alt="arnak7" /></p>

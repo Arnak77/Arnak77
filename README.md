@@ -30,4 +30,5 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnak7&label=Profile%20views&color=0e75b6&style=flat" alt="arnak7" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnak7" alt="arnak7" /></a> </p>
+

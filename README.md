@@ -30,7 +30,7 @@
 
 ### Let's get in touch! 😄
 
-[![LinkedIn](https://www.linkedin.com/in/arnak-jain-94427a23a/.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnak-jain-94427a23a/)
+[![LinkedIn](https://www.linkedin.com/in/arnak-jain-94427a23a/svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.linkedin.com/in/arnak-jain-94427a23a/)
 
 
 ### Thanks for Visiting my GitHub Profile!

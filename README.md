@@ -37,7 +37,4 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="icon" width="50" height="50" />
 
-</div>

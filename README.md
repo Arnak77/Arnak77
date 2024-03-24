@@ -30,5 +30,4 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnak7" alt="arnak7" /></a> </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnak7&show_icons=true&locale=en" alt="arnak7" /></p>

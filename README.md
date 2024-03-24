@@ -29,10 +29,10 @@
 ![Arnak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnak77&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ### Let's get in touch! 😄
-<p align="left">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnak-jain-94427a23a/)
-<a href="https://instagram.com/jain8408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jain8408" height="30" width="40" /></a>
-</p>
+
+
 
 
 

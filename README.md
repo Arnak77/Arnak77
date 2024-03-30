@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/Arnak77/Arnak77/assets/97283054/08125204-c579-42d0-9bb7-ddd80af28311)
 
-
 <h1 align="center">Hi 👋, I'm Arnak jain</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -30,6 +29,10 @@
 
 ### Let's get in touch! 😄
 
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnak-jain-94427a23a/) [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/jain8408)
 
 
@@ -38,3 +41,5 @@
 ### Thanks for Visiting my GitHub Profile!
 
 
+<h1 align="center">In this world winning is everything.....⏳️ That's All That Matters 🔝
+</h1>

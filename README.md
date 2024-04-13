@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 💬 Ask me about **C++,Java,SQl,Python,ML,NLP.**
+- 💬 Ask me about **C++,SQl,Python,ML,NLP.**
 
 - 📫 How to reach me: **arnakjain87421@gmail.com**
 
